@@ -1,0 +1,7 @@
+{
+  "name": "Ruhil Dental Clinic",
+  "description": "World-class dental care in Rohtak featuring modern technology, pain-free procedures, and compassionate care by Dr. Arjan Ruhil.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
